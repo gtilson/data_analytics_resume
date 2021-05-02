@@ -1,0 +1,115 @@
+---
+title: "Grant Tilson"
+author: Grant Tilson
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>grant.tilson@tufts.edu
+- <i class="fa fa-github"></i> [github.com/gtilson/](https://github.com/gtilson/)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Frontend mobile app development (Flutter, SwiftUI) 
+
+- Google Cloud serverless backend development
+
+- Intermediate French, Beginner Mandarin
+
+- Project management
+
+- Marketing
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Grant Tilson {#title}
+--------------------------------------------------------------------------------
+
+### Innovation Management student seeking Spring 2021 full-time job
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Innovation and Management
+
+Medford, MA
+
+2020--Current
+
+
+### Tufts University
+
+B.S. in Engineering Psychology
+
+Medford, MA
+
+2016--2020
+
+
+### City University of Hong Kong
+
+Study Abroad in International Business
+
+Hong Kong, SAR
+
+January 2019--May 2019
+
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Poem Sprint Project
+
+Tufts University
+
+Medford, MA
+
+2020--2021
+
+<!--::: concise-->
+- Developed a mobile social networking application for poets.
+- Iterated cloud services from Google Cloud, Algolia, and Twilio.
+<!--:::-->
+
+
+
+
+
+
